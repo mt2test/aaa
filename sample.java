@@ -8,5 +8,6 @@ public class Hellow {
 		System.out.println("ニーハオ");//ニーハオと出力
 		System.out.println("追加テスト");//追加テストと出力
 		System.out.println("pull request");//追加テスト２
+		System.out.println("double pull request");//追加テスト-同時プルリクエスト-
 	}
 }
