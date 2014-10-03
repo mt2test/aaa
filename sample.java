@@ -7,5 +7,6 @@ public class Hellow {
 		System.out.println("こんにちは");//こんにちはと出力
 		System.out.println("ニーハオ");//ニーハオと出力
 		System.out.println("追加テスト");//追加テストと出力
+		System.out.println("pull request");//追加テスト２
 	}
 }
