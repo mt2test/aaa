@@ -1,4 +1,4 @@
-// Javaのサンプルプログラムです。         aaaaifadfaeiiiii114514あああああああ
+// Javaのサンプルプログラムです。         aaaaifadfaeiiiii114514あああああああihddol
  
 public class Hellow {
 	public  static void main(String args[]){
