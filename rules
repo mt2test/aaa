@@ -38,6 +38,13 @@
 　9.イベントハンドラ名
 　　・コントロール名 + _ + 動作
 　　[例] txtName_Click
+　10.その他
+　　・規定化されている一連の処理の変数は固定とする。
+　	 OleDbConnection ocn = new OleDbConnection(
+         @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\test.accdb");
+         OleDbCommand ocmd = new OleDbCommand();
+       　 OleDbDataAdapter oda = new OleDbDataAdapter();
+       　 
 ■コーディングスタイル
 　1.インデント
 　　・インデント後の文が、インデント前の文に従属することを示す
