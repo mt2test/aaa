@@ -44,7 +44,9 @@
          @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\test.accdb");
          OleDbCommand ocmd = new OleDbCommand();
        　 OleDbDataAdapter oda = new OleDbDataAdapter();
-       　 
+  11.インスタンス名
+    ・インスタンスを作るときに決める変数名は小文字でフルネームにする
+    [例]Options options = new Options();       　 
 ■コーディングスタイル
 　1.インデント
 　　・インデント後の文が、インデント前の文に従属することを示す
