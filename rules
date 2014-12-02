@@ -35,6 +35,17 @@
 　　・大文字で区切る
 　　・コントロール部品の略称 + 用途で名前を付ける
 　　[例] txtName, lblOption
+　　・コントロールの略称一覧
+　　	Button		bt
+　　	CheckBox	chb
+　　	ComboBox	cb
+　　	Label		lbl
+　　	NotifyIcon	ni
+　　	RadioButton	rb
+　　	TextBox		tb
+　　	GroupBox	gb
+　　	Panel		pn
+　　	TabControl	tc
 　9.イベントハンドラ名
 　　・コントロール名 + _ + 動作
 　　[例] txtName_Click
